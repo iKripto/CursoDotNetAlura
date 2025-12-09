@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\iKripto\\.nuget\\packages\\": {}
+    "C:\\Users\\Yago Nascimento\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\DominandoPoo.csproj",
+      "projectUniqueName": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\DominandoPoo.csproj",
       "projectName": "DominandoPoo",
-      "projectPath": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\DominandoPoo.csproj",
-      "packagesPath": "C:\\Users\\iKripto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\obj\\",
+      "projectPath": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\DominandoPoo.csproj",
+      "packagesPath": "C:\\Users\\Yago Nascimento\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iKripto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yago Nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

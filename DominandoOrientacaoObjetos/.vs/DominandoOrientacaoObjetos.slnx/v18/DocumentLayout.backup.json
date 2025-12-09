@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\",
+  "WorkspaceRootPath": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\curso-csharp-alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,68 +50,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Album.cs",
-              "RelativeDocumentMoniker": "DominandoPoo\\Models\\Album.cs",
-              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Album.cs",
-              "RelativeToolTip": "DominandoPoo\\Models\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MenuAvaliarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeDocumentMoniker": "DominandoPoo\\Menus\\MenuAvaliarBanda.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeToolTip": "DominandoPoo\\Menus\\MenuAvaliarBanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:34:55.965Z",
+              "WhenOpened": "2025-12-09T20:17:20.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuExibirDetalhes.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeDocumentMoniker": "DominandoPoo\\Menus\\MenuExibirDetalhes.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeToolTip": "DominandoPoo\\Menus\\MenuExibirDetalhes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:20:44.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Musica.cs",
               "RelativeDocumentMoniker": "DominandoPoo\\Models\\Musica.cs",
-              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Musica.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Musica.cs",
               "RelativeToolTip": "DominandoPoo\\Models\\Musica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:34:46.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T13:34:46.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "DominandoPoo\\Models\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Avaliacao.cs",
+              "RelativeToolTip": "DominandoPoo\\Models\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:03:35.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Banda.cs",
+              "RelativeDocumentMoniker": "DominandoPoo\\Models\\Banda.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Banda.cs",
+              "RelativeToolTip": "DominandoPoo\\Models\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:01:09.953Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Avaliacao.cs",
-              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Avaliacao.cs",
-              "RelativeDocumentMoniker": "DominandoPoo\\Models\\Avaliacao.cs",
-              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Avaliacao.cs",
-              "RelativeToolTip": "DominandoPoo\\Models\\Avaliacao.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:03:35.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Banda.cs",
-              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Banda.cs",
-              "RelativeDocumentMoniker": "DominandoPoo\\Models\\Banda.cs",
-              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Banda.cs",
-              "RelativeToolTip": "DominandoPoo\\Models\\Banda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:01:09.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Program.cs",
               "RelativeDocumentMoniker": "DominandoPoo\\Program.cs",
-              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Program.cs",
-              "RelativeToolTip": "DominandoPoo\\Program.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAwJEAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Program.cs*",
+              "RelativeToolTip": "DominandoPoo\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T14:43:14.561Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "DominandoPoo\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\Curso-CSharp-Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Album.cs",
+              "RelativeToolTip": "DominandoPoo\\Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:34:55.965Z"
             }
           ]
         }

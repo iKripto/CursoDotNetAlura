@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DominandoPoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0422a65fde390a4c71388ab72962ea96cbbed00f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da5df43eb2ab428b9053cdab641b0fc724095769")]
 [assembly: System.Reflection.AssemblyProductAttribute("DominandoPoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DominandoPoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
